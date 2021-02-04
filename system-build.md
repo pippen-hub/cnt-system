@@ -5,7 +5,7 @@
 >$ unzip cnt.zip
 > $ tree cnt
 
-![](https://i.imgur.com/AYAqtZ5.png =45%)
+![](https://i.imgur.com/AYAqtZ5.png =50x50)
 - 進入cnt目錄
 > $ cd cnt 
 - 更改執行程式會使用到的變數
