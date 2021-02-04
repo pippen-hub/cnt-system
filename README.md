@@ -1,1 +1,1 @@
-# k3s-system
+# cnt-system
